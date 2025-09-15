@@ -46,6 +46,7 @@
 |---------------|--------------|--------------------------------------------|
 | Sep 2025      | Cisco        | C++ Essentials 1                           |
 | Jun 2025      | Cisco        | Python Essentials 2                        |
+| May 2025      | Cisco        | Python Essentials 1                        |
 | May 2024           | Cisco        | CCNA: Switching, Routing, and Wireless Essentials |
 | Jun 2023           | Cisco        | CCNA: Introduction to Networks             |
 | May 2023           | Cisco        | Cybersecurity Essentials                    |
