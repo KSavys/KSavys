@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saverio Giufrè</h1>
-<h3 align="center">🎓 Computer Science Student at the University of Catania 🇮🇹</h3>
+<h1>Hi 👋, I'm Saverio Giufrè</h1>
+<h3>🎓 Computer Science Student at the University of Catania 🇮🇹</h3>
 
 ---
 
