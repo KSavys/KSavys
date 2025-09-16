@@ -36,7 +36,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,asm)](https://skillicons.dev)
 
 ### 🌍 Web & Tools:
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,premiere)](https://skillicons.dev)
 
 ---
 
